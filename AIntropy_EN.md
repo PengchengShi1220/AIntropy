@@ -1,3 +1,6 @@
+# AIntropy: A Brief History of Earth (just for fun)
+# Author: GPT-4
+
 # Foreword {#foreword .unnumbered}
 
 Earth, a blue planet in the universe, carries the wonder of countless
